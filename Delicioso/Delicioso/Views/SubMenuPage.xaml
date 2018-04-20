@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Delicioso.Views.SubMenuPage">
+    <ListView x:Name="MenuSubListView" RowHeight="100" HasUnevenRows="True" ItemTapped="MenuSub_ItemTapped">
+        <ListView.ItemTemplate >
+            <DataTemplate>
+                <ViewCell>
+                    <Frame
+                        IsClippedToBounds="False"
+                        HasShadow="True"
+                        CornerRadius="15"
+                        Padding="12"
+                        HorizontalOptions="FillAndExpand">
+                        <StackLayout  Orientation="Vertical" Padding="5">
+                            <StackLayout Orientation="Horizontal"  BackgroundColor="White">
+                                <Image Source="{Binding Image}"
+                                   HeightRequest="100"
+                                   WidthRequest="100"/>
+                                <StackLayout Orientation="Vertical">
+                                    <Label Text="{Binding Name}"
+                                       FontSize="Small"
+                                       TextColor="Black"/>
+                                    <Label Text="{Binding Description}"
+                                       FontSize="Micro"/>
+                                    <Label Text="{Binding Price}" FontSize="Small" TextColor="Black"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

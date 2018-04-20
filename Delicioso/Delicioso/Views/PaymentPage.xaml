@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Delicioso.Views.PaymentPage">
+
+    <StackLayout x:Name="MasterLayout">
+        <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+            <Label Text="Enter the details to proceed.."
+               TextColor="White"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               FontSize="20" 
+               Margin="0,80,0,0" />
+            <Label x:Name="Error" Text="Error Displayed" HorizontalOptions="CenterAndExpand" TextColor="Red" FontSize="Small"></Label>
+        </StackLayout>
+
+        <Frame
+                IsClippedToBounds="False"
+                HasShadow="True"
+                CornerRadius="15"
+                HorizontalOptions="FillAndExpand">
+            <StackLayout x:Name="LoginEnteriesStack" VerticalOptions="StartAndExpand" BackgroundColor="White" >
+                <StackLayout.Padding>
+                    <OnIdiom x:TypeArguments="Thickness">
+                        <OnIdiom.Phone>40,0,40,0</OnIdiom.Phone>
+                        <OnIdiom.Tablet>140,150,140,0</OnIdiom.Tablet>
+                    </OnIdiom>
+                </StackLayout.Padding>
+
+                <Entry x:Name="cn" Placeholder="Customer Name" FontSize="18" TextColor="Black" />
+                <Entry x:Name="name" Placeholder="Name as in cradit card" FontSize="18" TextColor="Black" />
+                <Entry x:Name="number" Placeholder="Cradit card number" MaxLength="16" FontSize="18" TextColor="Black" />
+                <Entry x:Name="cvv" Placeholder="CV Code" MaxLength="3" FontSize="18" TextColor="Black" />
+            </StackLayout>
+            <!--Content here-->
+        </Frame>
+
+
+        <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="StartAndExpand">
+            <Button Text="Complete Payment" Clicked="PayNow_btn_Clicked" BackgroundColor="Orange" TextColor="White" FontAttributes="Bold" FontSize="18"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

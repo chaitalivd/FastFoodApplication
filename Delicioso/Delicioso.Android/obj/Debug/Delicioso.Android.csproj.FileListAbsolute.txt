@@ -1,0 +1,340 @@
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.dll
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\com.companyname.Delicioso.apk
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\com.companyname.Delicioso-Signed.apk
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.dll
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.csprojResolveAssemblyReference.cache
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.csproj.CoreCompileInputs.cache
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.csproj.CopyComplete
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.dll
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\bin\com.companyname.Delicioso.apk
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\icon.png
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\layout\tabbar.xml
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\layout\toolbar.xml
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\values\styles.xml
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_shopping_cart_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_account_circle_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_book_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_exit_to_app_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\cv_pic3.jpg
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\cv_pic1.png
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\cv_pic2.jpg
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\background.jpg
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\mh_juice.jpg
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\mh_sandwich.jpg
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\pimento_cheese_sandwiches.jpg
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\veggie_focaccia.jpg
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\very_berry_khatta.jpg
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\watermelon_and_mint_juice.jpg
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\R.cs.flag
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\uploadflags.txt
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Mono.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\mscorlib.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\SQLite-net.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.IdentityModel.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Net.Http.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Runtime.Serialization.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Xml.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Xml.Linq.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Data.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Numerics.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Transactions.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Mono.Data.Tds.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Mono.Security.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.IO.Compression.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.ComponentModel.Composition.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Web.Services.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.ServiceModel.Internals.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Delicioso.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Mono.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\mscorlib.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\SQLite-net.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Net.Http.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Xml.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Data.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Numerics.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Transactions.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Mono.Security.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Web.Services.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Delicioso.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Mono.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Mono.Security.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\mscorlib.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\SQLite-net.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Data.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Net.Http.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Numerics.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Transactions.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Web.Services.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Xml.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.dll
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\com.companyname.Delicioso.apk
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\com.companyname.Delicioso-Signed.apk
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.dll
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.csprojResolveAssemblyReference.cache
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.csproj.CoreCompileInputs.cache
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.csproj.CopyComplete
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.dll
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\bin\com.companyname.Delicioso.apk
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\icon.png
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\layout\tabbar.xml
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\layout\toolbar.xml
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\values\styles.xml
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_shopping_cart_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_account_circle_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_book_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_exit_to_app_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\cv_pic3.jpg
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\cv_pic1.png
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\cv_pic2.jpg
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\background.jpg
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\mh_juice.jpg
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\mh_sandwich.jpg
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\pimento_cheese_sandwiches.jpg
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\veggie_focaccia.jpg
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\very_berry_khatta.jpg
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\watermelon_and_mint_juice.jpg
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\R.cs.flag
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\uploadflags.txt
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Mono.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Mono.Data.Tds.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Mono.Security.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\mscorlib.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\SQLite-net.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.ComponentModel.Composition.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Data.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.IdentityModel.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.IO.Compression.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Net.Http.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Numerics.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Runtime.Serialization.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.ServiceModel.Internals.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Transactions.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Web.Services.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Xml.Linq.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Xml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Delicioso.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Mono.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Mono.Security.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\mscorlib.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\SQLite-net.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Data.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Net.Http.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Numerics.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Transactions.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Web.Services.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Xml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Delicioso.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Mono.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Mono.Security.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\mscorlib.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\SQLite-net.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Data.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Net.Http.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Numerics.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Transactions.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Web.Services.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Xml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.dll
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\com.companyname.Delicioso.apk
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\com.companyname.Delicioso-Signed.apk
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.dll
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.csprojResolveAssemblyReference.cache
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.csproj.CoreCompileInputs.cache
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.csproj.CopyComplete
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.dll
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\Delicioso.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\bin\com.companyname.Delicioso.apk
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\icon.png
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\layout\tabbar.xml
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\layout\toolbar.xml
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\values\styles.xml
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_shopping_cart_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_account_circle_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_book_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\ic_exit_to_app_black_24dp.png
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\cv_pic3.jpg
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\cv_pic1.png
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\cv_pic2.jpg
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\background.jpg
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\mh_juice.jpg
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\mh_sandwich.jpg
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\pimento_cheese_sandwiches.jpg
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\veggie_focaccia.jpg
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\very_berry_khatta.jpg
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\res\drawable\watermelon_and_mint_juice.jpg
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\R.cs.flag
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\uploadflags.txt
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Mono.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Mono.Data.Tds.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Mono.Security.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\mscorlib.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\SQLite-net.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.ComponentModel.Composition.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Data.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.IdentityModel.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.IO.Compression.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Net.Http.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Numerics.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Runtime.Serialization.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.ServiceModel.Internals.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Transactions.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Web.Services.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Xml.Linq.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\System.Xml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Delicioso.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Mono.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Mono.Security.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\mscorlib.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\SQLite-net.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Data.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Net.Http.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Numerics.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Transactions.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Web.Services.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\System.Xml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Delicioso.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Mono.Android.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Mono.Security.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\mscorlib.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\SQLite-net.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Data.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Net.Http.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Numerics.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Transactions.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Web.Services.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\System.Xml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\bin\Debug\Delicioso.Android.dll
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Delicioso.Android.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

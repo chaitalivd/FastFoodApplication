@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Delicioso.Views.CartPage">
+    <StackLayout>    
+    <ListView x:Name="cart" RowHeight="100" HasUnevenRows="True" ItemTapped="Cart_ItemTapped">
+        <ListView.ItemTemplate >
+            <DataTemplate>
+                <ViewCell>
+                    <Frame
+                        IsClippedToBounds="False"
+                        HasShadow="True"
+                        CornerRadius="15"
+                        Padding="12"
+                        HorizontalOptions="FillAndExpand">
+                        <StackLayout  Orientation="Vertical" Padding="5">
+                            <StackLayout Orientation="Horizontal"  BackgroundColor="White" >
+                                <Image Source="{Binding Image}"
+                                       HeightRequest="50"
+                                       WidthRequest="50" />
+                                <StackLayout Orientation="Horizontal" BackgroundColor="White">
+                                    <StackLayout Orientation="Vertical" VerticalOptions="Fill" HorizontalOptions="End" BackgroundColor="White">
+                                        <Label Text="{Binding Name}"
+                                               FontSize="Small"
+                                               TextColor="OrangeRed"/>
+                                        <StackLayout Orientation="Horizontal" VerticalOptions="End" HorizontalOptions="End">
+                                            <Label Text="{Binding Price}"
+                                                   FontSize="Small"
+                                                   TextColor="OrangeRed"
+                                                   VerticalOptions="End" HorizontalOptions="End"/>
+                                            <Label Text="{Binding Qty}"
+                                                   FontSize="Small"
+                                                   WidthRequest="60"
+                                                   TextColor="OrangeRed"
+                                                   HorizontalTextAlignment="End"
+                                                   VerticalOptions="End"
+                                                   HorizontalOptions="End" />
+                                            <Label Text="{Binding Total}"
+                                                   VerticalOptions="End"
+                                                   HorizontalOptions="End"
+                                                   FontSize="20"
+                                                   WidthRequest="60"
+                                                   TextColor="OrangeRed"
+                                                   HorizontalTextAlignment="End" />
+                                        </StackLayout>
+                                    </StackLayout>
+                                </StackLayout>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+    <StackLayout Orientation="Horizontal" BackgroundColor="White" Padding="10" HorizontalOptions="End" VerticalOptions="Center">
+        <Label  Text="Grand Total" FontSize="Micro" TextColor="Maroon"/>
+        <Label x:Name="total" FontSize="Small" TextColor="Black"/>
+    </StackLayout>
+    <Button Text="Pay Now" Clicked="pay_btn_Clicked" BackgroundColor="Orange" TextColor="White" FontAttributes="Bold" FontSize="18"/>
+    </StackLayout>
+</ContentPage>
