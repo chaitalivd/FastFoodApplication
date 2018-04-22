@@ -68,5 +68,26 @@ namespace Delicioso.Views
            closer?.closeApplication();
             return false;
         }
+
+        private void OnCartClick(object sender, EventArgs e)
+        {
+            if (Application.Current.Properties.ContainsKey("USERNAME"))
+            {
+                var getUserName = Convert.ToString(Application.Current.Properties["USERNAME"]);
+                if (getUserName.Equals("As Guest"))
+                {
+                    Navigation.PushAsync(new LoginPage());
+                }
+                else
+                {
+                    Navigation.PushAsync(new CartPage());
+                }
+
+            }
+        }
+        private void OnSignoutClick(object sender, EventArgs e)
+        {
+            Application.Current.Properties["USERNAME"] = "As Guest";
+        }
     }
 }

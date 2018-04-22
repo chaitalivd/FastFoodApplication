@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Delicioso.Views.SignupPage">
+    <ScrollView>
     <StackLayout x:Name="MasterLayout">
         <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
             <Label Text="Register yourself..For Better Use"
@@ -10,7 +11,7 @@
                HorizontalOptions="Center"
                FontSize="20" 
                Margin="0,80,0,0" />
-            <Label x:Name="Error" Text="Error Displayed" TextColor="Red" FontSize="Small"></Label>
+            <Label x:Name="Error" Text="" HorizontalOptions="CenterAndExpand" TextColor="Red" FontSize="Small"></Label>
         </StackLayout>
 
         <Frame
@@ -39,4 +40,5 @@
             <Button x:Name="Btn_SignUp" Text="Sign Up" Clicked="SignUpInsert" BackgroundColor="Orange" TextColor="White" FontAttributes="Bold" FontSize="18" />
         </StackLayout>
     </StackLayout>
+    </ScrollView>
 </ContentPage>

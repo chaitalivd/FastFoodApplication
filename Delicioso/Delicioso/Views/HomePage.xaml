@@ -39,4 +39,10 @@
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Cart" Activated="OnCartClick"
+               Priority="0" Order="Secondary" />
+        <ToolbarItem Name="Sign Out" Activated="OnSignoutClick"
+               Priority="1" Order="Secondary" />
+    </ContentPage.ToolbarItems>
 </ContentPage>

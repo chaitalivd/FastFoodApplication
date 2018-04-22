@@ -29,9 +29,16 @@ namespace Delicioso.Views
             {
                 var username = Convert.ToString(Application.Current.Properties["USERNAME"]);
                 CartQuery cartQuery = new CartQuery();
-                cartQuery.DeleteCart(username);
-                DisplayAlert("Paymet", "Success", "Yes");
-                Navigation.PushAsync(new HomePage());
+                var i = cartQuery.DeleteCart(username);
+                if (i > 0)
+                {
+                    DisplayAlert("Paymet", "Success", "Yes");
+                    Navigation.PushAsync(new HomePage());
+                }
+                else
+                {
+                    DisplayAlert("Paymet", "Something wenr wrong..", "Yes");
+                }               
             }
         }
     }

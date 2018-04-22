@@ -140,7 +140,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ic_shopping_cart_black_24dp.png" />
+    <AndroidResource Include="Resources\ic_shopping_cart_black_24dp.png" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\ic_account_circle_3x.png" />
@@ -152,12 +152,42 @@
     <BundleResource Include="Resources\ic_account_circle_2x.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ic_account_circle_black_24dp.png" />
+    <AndroidResource Include="Resources\ic_account_circle_black_24dp.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ic_book_black_24dp.png" />
+    <AndroidResource Include="Resources\ic_book_black_24dp.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ic_exit_to_app_black_24dp.png" />
+    <AndroidResource Include="Resources\ic_exit_to_app_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\cv_pic1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\cv_pic2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\cv_pic3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\mh_juice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\mh_sandwich.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\pimento_cheese_sandwiches.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\veggie_focaccia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\very_berry_khatta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\watermelon_and_mint_juice.jpg" />
   </ItemGroup>
 </Project>

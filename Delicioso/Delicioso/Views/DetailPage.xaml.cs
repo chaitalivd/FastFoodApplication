@@ -27,7 +27,7 @@ namespace Delicioso.Views
             Price.Text = price;
         }
 
-        public async void Add_btn_Clicked(object sender, EventArgs e)
+        public void Add_btn_Clicked(object sender, EventArgs e)
         {
             if (Application.Current.Properties.ContainsKey("USERNAME"))
             {
@@ -35,7 +35,7 @@ namespace Delicioso.Views
                 if (getUserName.Equals("As Guest"))
                 {
                     int quantity1 = Convert.ToInt32(Qty.Text);
-                    await Navigation.PushAsync(new LoginPage(selImage,Name.Text,Price.Text,quantity1));
+                    Navigation.PushAsync(new LoginPage(selImage,Name.Text,Price.Text,quantity1));
                 }
                 else
                 {
@@ -51,8 +51,15 @@ namespace Delicioso.Views
                     cartDB.Total = (quantity * total).ToString();
                     cartDB.Image = selImage;
                     CartQuery cartQuery = new CartQuery();
-                    cartQuery.InsertDetails(cartDB);
-                    await Navigation.PushAsync(new CartPage());
+                    var i = cartQuery.InsertDetails(cartDB);
+                    if (i > 0)
+                    {
+                        Navigation.PushAsync(new CartPage());
+                    }
+                    else
+                    {
+                        DisplayAlert("Issue", "Something went wrong..", "Ok");
+                    }
                 }
             }
         }

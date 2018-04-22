@@ -16,7 +16,7 @@ namespace Delicioso.Models
 
         public UserQuery()
         {
-            s = DependencyService.Get<SQlite_main>().GetConnection();
+            s = DependencyService.Get<ISQLite_main>().GetConnection();
             s.CreateTable<UserDB>();
         }
 

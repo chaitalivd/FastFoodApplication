@@ -20,6 +20,8 @@ namespace Delicioso.Views
 			InitializeComponent ();
             this.BackgroundImage = "background.jpg";
             this.Title = "Login";
+            Entry_Username.Completed += (s, e) => Entry_Password.Focus();
+            Entry_Password.Completed += (s, e) => SignInProcedure(s, e);
         }
 
         public LoginPage(string image, string name, string price, int qty)
@@ -31,6 +33,10 @@ namespace Delicioso.Views
             this.getName = name;
             this.getPrice = price;
             this.getQuantity = qty;
+
+            Entry_Username.Completed += (s, e) => Entry_Password.Focus();
+            Entry_Password.Completed += (s, e) => SignInProcedure(s, e);
+
         }
 
         public void SignInProcedure(object sender, EventArgs args)
@@ -72,19 +78,33 @@ namespace Delicioso.Views
 
         public void NavigateFunc()
         {
-            var getUsername = Convert.ToString(Application.Current.Properties["USERNAME"]);
-            CartDB cartDB = new CartDB();
-            string[] exPrice = getPrice.Split('.');
-            int total = Convert.ToInt32(exPrice[1]);
-            cartDB.Username = getUsername;
-            cartDB.Name = getName;
-            cartDB.Price = getPrice;
-            cartDB.Qty = getQuantity.ToString();
-            cartDB.Total = (getQuantity * total).ToString();
-            cartDB.Image = getImage;
-            CartQuery cartQuery = new CartQuery();
-            cartQuery.InsertDetails(cartDB);
-            Navigation.PushAsync(new CartPage());
+            if(getName == null)
+            {
+                Navigation.PushAsync(new CartPage());
+            }
+            else
+            {
+                var getUsername = Convert.ToString(Application.Current.Properties["USERNAME"]);
+                CartDB cartDB = new CartDB();
+                string[] exPrice = getPrice.Split('.');
+                int total = Convert.ToInt32(exPrice[1]);
+                cartDB.Username = getUsername;
+                cartDB.Name = getName;
+                cartDB.Price = getPrice;
+                cartDB.Qty = getQuantity.ToString();
+                cartDB.Total = (getQuantity * total).ToString();
+                cartDB.Image = getImage;
+                CartQuery cartQuery = new CartQuery();
+                var i = cartQuery.InsertDetails(cartDB);
+                if (i > 0)
+                {
+                    Navigation.PushAsync(new CartPage());
+                }
+                else
+                {
+                    DisplayAlert("Issue", "Something went wrong..", "Ok");
+                }
+            }       
         }
     }
 }

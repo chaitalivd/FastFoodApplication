@@ -16,12 +16,11 @@ F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso\obj\Debug\n
 F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso\obj\Debug\netstandard2.0\Delicioso.AssemblyInfo.cs
 F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso\obj\Debug\netstandard2.0\Delicioso.dll
 F:\C#\C#_Ws\Applications\Delicioso 2.0\Delicioso\Delicioso\Delicioso\obj\Debug\netstandard2.0\Delicioso.pdb
-F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\obj\Debug\netstandard2.0\Delicioso.csprojResolveAssemblyReference.cache
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\bin\Debug\netstandard2.0\Delicioso.deps.json
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\bin\Debug\netstandard2.0\Delicioso.dll
+F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\bin\Debug\netstandard2.0\Delicioso.pdb
 F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\obj\Debug\netstandard2.0\Delicioso.csproj.CoreCompileInputs.cache
 F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\obj\Debug\netstandard2.0\Delicioso.AssemblyInfoInputs.cache
 F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\obj\Debug\netstandard2.0\Delicioso.AssemblyInfo.cs
 F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\obj\Debug\netstandard2.0\Delicioso.dll
 F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\obj\Debug\netstandard2.0\Delicioso.pdb
-F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\bin\Debug\netstandard2.0\Delicioso.deps.json
-F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\bin\Debug\netstandard2.0\Delicioso.dll
-F:\C#\C#_Ws\Applications\Delicioso 3.0\Delicioso\Delicioso\Delicioso\bin\Debug\netstandard2.0\Delicioso.pdb

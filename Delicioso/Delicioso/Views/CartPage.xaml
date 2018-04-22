@@ -2,11 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Delicioso.Views.CartPage">
-    <StackLayout>    
-    <ListView x:Name="cart" RowHeight="100" HasUnevenRows="True" ItemTapped="Cart_ItemTapped">
-        <ListView.ItemTemplate >
+    <StackLayout>
+        <ListView x:Name="cart" RowHeight="100" HasUnevenRows="True"> <!--ItemTapped="Cart_ItemTapped">-->
+            <ListView.ItemTemplate >
             <DataTemplate>
-                <ViewCell>
+                    <ViewCell IsEnabled="False">
                     <Frame
                         IsClippedToBounds="False"
                         HasShadow="True"

@@ -17,7 +17,7 @@ using Xamarin.Forms;
 [assembly: Dependency(typeof(SqliteAndroid))]
 namespace Delicioso.Droid.Interface
 {
-    public class SqliteAndroid : SQlite_main
+    public class SqliteAndroid : ISQLite_main
     {
         public SqliteAndroid() { }
         public SQLite.SQLiteConnection GetConnection()

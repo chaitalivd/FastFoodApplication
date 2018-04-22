@@ -14,9 +14,10 @@ namespace Delicioso.Models
 
         SQLiteConnection s;
 
+
         public CartQuery()
         {
-            s = DependencyService.Get<SQlite_main>().GetConnection();
+            s = DependencyService.Get<ISQLite_main>().GetConnection();
             s.CreateTable<CartDB>();
         }
 
@@ -39,9 +40,22 @@ namespace Delicioso.Models
         }
         public int DeleteCart(string user)
         {
+            int n = 0;
+            int count = 0;
             lock (locker)
             {
-               return s.Delete<CartDB>(user);
+                List<CartDB> items = (from p in s.Table<CartDB>() where p.Username == user select p).ToList();
+                foreach(CartDB x in items)
+                {
+                    n = x.Id;
+                    count += s.Delete<CartDB>(n);
+                }
+                return count;
+                //s.Delete(result);
+                //var result = from p in s.Table<CartDB>() where p.Username == user select p;
+                //s.Delete(result);
+                //return s.Delete<CartDB>(user);
+                //return s.Query<CartDB>("delete from CartDB where Username='" + user + "'").AsEnumerable();
             }
         }
 
@@ -78,6 +92,5 @@ namespace Delicioso.Models
                 return (from i in s.Table<CartDB>() select i).ToList().Count;
             }
         }
-
     }
 }

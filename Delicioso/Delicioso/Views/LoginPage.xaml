@@ -10,7 +10,7 @@
                HorizontalOptions="Center"
                FontSize="20" 
                Margin="0,80,0,0" />
-            <Label x:Name="Error" Text="Error Displayed" TextColor="Red" FontSize="Small"></Label> 
+            <Label x:Name="Error" Text="" HorizontalOptions="CenterAndExpand" TextColor="Red" FontSize="Small"></Label> 
         </StackLayout>
 
         <Frame

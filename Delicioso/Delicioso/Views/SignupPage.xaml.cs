@@ -38,6 +38,12 @@ namespace Delicioso.Views
             this.getQuantity = qty;
             userDB = new UserDB();
             userQuery = new UserQuery();
+            Entry_Fullname.Completed += (s, e) => Entry_Username.Focus();
+            Entry_Username.Completed += (s, e) => Entry_Password.Focus();
+            Entry_Password.Completed += (s, e) => Entry_Confirm_Password.Focus();
+            Entry_Confirm_Password.Completed += (s, e) => Entry_Mobile_Number.Focus();
+            Entry_Mobile_Number.Completed += (s, e) => Entry_Address.Focus();
+            Entry_Address.Completed += (s, e) => SignUpInsert(s, e);
         }
 
         public void SignUpInsert(object sender, EventArgs eventArgs)
