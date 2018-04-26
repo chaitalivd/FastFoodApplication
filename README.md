@@ -11,5 +11,5 @@ Build the project in Visual Studio 2017 and Run.
   	-Food Description
 	-Login authentication(Multiple Login feature is available)
 	-Adding to cart
-	-Payment of the orde
+	-Payment of the order
  *Sign In/Sign Up is required to add food to cart and to display the cart.
