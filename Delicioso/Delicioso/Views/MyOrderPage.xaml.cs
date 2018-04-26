@@ -16,12 +16,5 @@ namespace Delicioso.Views
 		{
 			InitializeComponent ();
 		}
-
-        protected override bool OnBackButtonPressed()
-        {
-            //I have changed here
-            Navigation.PushAsync(new HomePage());
-            return true;
-        }
-    }
+	}
 }

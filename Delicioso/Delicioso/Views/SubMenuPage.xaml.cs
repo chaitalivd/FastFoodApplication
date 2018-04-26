@@ -1,4 +1,4 @@
-﻿using Delicioso.Models;
+﻿using Delicioso.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +22,7 @@ namespace Delicioso.Views
             this.menuTitle = menu;
             this.Title = menuTitle;
             this.BackgroundImage = "background.jpg";
+            App.StartCheckIfInternet(lbl_NoInternet, this);
 
             if (menuTitle.Equals("Sandwich"))
             {
@@ -44,7 +45,7 @@ namespace Delicioso.Views
                 };
                 MenuSubListView.ItemsSource = menusub;
             }
-            else if(menuTitle.Equals("Fresh Juice"))
+            else if (menuTitle.Equals("Fresh Juice"))
             {
                 var menusub = new List<MenuSubList>
                 {
@@ -69,11 +70,16 @@ namespace Delicioso.Views
 
         public async void MenuSub_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            var menu = e.Item as MenuSubList;
-            await Navigation.PushAsync(new DetailPage(menu.Image, menu.Name, menu.Description, menu.Price));
-            //await DisplayAlert("Menu Tapped", "Menu: " + menu.Name, "Ok");
+            if (lbl_NoInternet.IsVisible == true)
+            {
+                await DisplayAlert("Internet", "Device has no Internet, please reconnect to proceed.", "Ok");
+            }
+            else
+            {
+                var menu = e.Item as MenuSubList;
+                await Navigation.PushAsync(new DetailPage(menu.Image, menu.Name, menu.Description, menu.Price));
+                //await DisplayAlert("Menu Tapped", "Menu: " + menu.Name, "Ok");
+            }            
         }
-
-
     }
 }

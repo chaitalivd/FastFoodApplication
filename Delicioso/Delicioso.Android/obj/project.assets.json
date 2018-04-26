@@ -2,6 +2,20 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v7.1": {
+      "Rg.Plugins.Popup/1.1.4.154-pre": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.121934"
+        },
+        "compile": {
+          "lib/MonoAndroid/Rg.Plugins.Popup.Droid.dll": {},
+          "lib/MonoAndroid/Rg.Plugins.Popup.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid/Rg.Plugins.Popup.Droid.dll": {},
+          "lib/MonoAndroid/Rg.Plugins.Popup.dll": {}
+        }
+      },
       "sqlite-net-pcl/1.5.166-beta": {
         "type": "package",
         "dependencies": {
@@ -60,34 +74,15 @@
           "lib/MonoAndroid/SQLitePCLRaw.provider.e_sqlite3.dll": {}
         }
       },
-      "Xam.Plugins.Settings/4.0.0.3-beta": {
+      "Xam.Plugin.Connectivity/4.0.0.186-beta": {
         "type": "package",
-        "frameworkAssemblies": [
-          "Java.Interop",
-          "Mono.Android",
-          "System",
-          "System.Collections",
-          "System.Core",
-          "System.IdentityModel",
-          "System.Net.Http",
-          "System.Runtime",
-          "System.Runtime.Serialization",
-          "System.Threading.Tasks",
-          "System.Xml",
-          "System.Xml.Linq"
-        ],
         "compile": {
-          "lib/monoandroid44/Plugin.Settings.dll": {}
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {}
         },
         "runtime": {
-          "lib/monoandroid44/Plugin.Settings.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/monoandroid44/readme.txt": {
-            "buildAction": "None",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
+          "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/MonoAndroid10/Plugin.Connectivity.dll": {}
         }
       },
       "Xamarin.Android.Support.Animated.Vector.Drawable/25.4.0.2": {
@@ -395,7 +390,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xam.Plugins.Settings": "4.0.0.3-beta",
+          "Rg.Plugins.Popup": "1.1.4.154-pre",
+          "Xam.Plugin.Connectivity": "4.0.0.186-beta",
           "Xamarin.Forms": "3.0.0.354232-pre3",
           "Xamarin.Forms.CarouselView": "2.3.0-pre2",
           "sqlite-net-pcl": "1.5.166-beta"
@@ -410,6 +406,33 @@
     }
   },
   "libraries": {
+    "Rg.Plugins.Popup/1.1.4.154-pre": {
+      "sha512": "9ikBEWrM2yNKW7vg1oet8KagYNIAWKlmwExU45oDvE/M5lOwK/qEVlyXgbouZWHnCnSE4yStiY1QGLrxG/k5DQ==",
+      "type": "package",
+      "path": "rg.plugins.popup/1.1.4.154-pre",
+      "files": [
+        "lib/MonoAndroid/Rg.Plugins.Popup.Droid.dll",
+        "lib/MonoAndroid/Rg.Plugins.Popup.Droid.pdb",
+        "lib/MonoAndroid/Rg.Plugins.Popup.dll",
+        "lib/MonoAndroid/Rg.Plugins.Popup.pdb",
+        "lib/MonoTouch/Rg.Plugins.Popup.IOS.dll",
+        "lib/MonoTouch/Rg.Plugins.Popup.IOS.pdb",
+        "lib/MonoTouch/Rg.Plugins.Popup.dll",
+        "lib/MonoTouch/Rg.Plugins.Popup.pdb",
+        "lib/Xamarin.IOS/Rg.Plugins.Popup.IOS.dll",
+        "lib/Xamarin.IOS/Rg.Plugins.Popup.IOS.pdb",
+        "lib/Xamarin.IOS/Rg.Plugins.Popup.dll",
+        "lib/Xamarin.IOS/Rg.Plugins.Popup.pdb",
+        "lib/netstandard1.0/Rg.Plugins.Popup.dll",
+        "lib/netstandard1.0/Rg.Plugins.Popup.pdb",
+        "lib/uap10.0/Rg.Plugins.Popup.UWP.dll",
+        "lib/uap10.0/Rg.Plugins.Popup.UWP.pdb",
+        "lib/uap10.0/Rg.Plugins.Popup.dll",
+        "lib/uap10.0/Rg.Plugins.Popup.pdb",
+        "rg.plugins.popup.1.1.4.154-pre.nupkg.sha512",
+        "rg.plugins.popup.nuspec"
+      ]
+    },
     "sqlite-net-pcl/1.5.166-beta": {
       "sha512": "a7VbroGBauEKY+UJeP1Z5UyrSHagigKgJGa5pVOyKDOI5/cPuCN2YUP4lhLReZdn73CrPqz2U7jsmZBoyZ0kXA==",
       "type": "package",
@@ -515,48 +538,69 @@
         "sqlitepclraw.provider.e_sqlite3.android.nuspec"
       ]
     },
-    "Xam.Plugins.Settings/4.0.0.3-beta": {
-      "sha512": "d3OKHQ67qx01kax3AbkbvclP47hpNgdilrtz9lpc+0GCM1tCzAH12dGV2DlgG4rmcE8pYgUyAYcta7HoDKn+3w==",
+    "Xam.Plugin.Connectivity/4.0.0.186-beta": {
+      "sha512": "omhy5ycD6LoXwuJYJAOQgth86oayAXfglT4e/ce5h8cn8oO3QJYZZug6leT5wQD8bD1Kb0wxIOXs8jKZZO1/Gw==",
       "type": "package",
-      "path": "xam.plugins.settings/4.0.0.3-beta",
+      "path": "xam.plugin.connectivity/4.0.0.186-beta",
       "files": [
-        "content/readme.txt",
-        "contentFiles/any/monoandroid44/readme.txt",
-        "contentFiles/any/net45/readme.txt",
-        "contentFiles/any/netcoreapp2.0/readme.txt",
-        "contentFiles/any/netstandard1.0/readme.txt",
-        "contentFiles/any/netstandard2.0/readme.txt",
-        "contentFiles/any/tizen40/readme.txt",
-        "contentFiles/any/uap10.0.15063/readme.txt",
-        "contentFiles/any/xamarinios10/readme.txt",
-        "contentFiles/any/xamarinmac20/readme.txt",
-        "contentFiles/any/xamarintvos10/readme.txt",
-        "contentFiles/any/xamarinwatchos10/readme.txt",
-        "lib/monoandroid44/Plugin.Settings.dll",
-        "lib/monoandroid44/Plugin.Settings.xml",
-        "lib/net45/Plugin.Settings.dll",
-        "lib/net45/Plugin.Settings.xml",
-        "lib/netcoreapp2.0/Plugin.Settings.dll",
-        "lib/netcoreapp2.0/Plugin.Settings.xml",
-        "lib/netstandard1.0/Plugin.Settings.dll",
-        "lib/netstandard1.0/Plugin.Settings.xml",
-        "lib/netstandard2.0/Plugin.Settings.dll",
-        "lib/netstandard2.0/Plugin.Settings.xml",
-        "lib/tizen40/Plugin.Settings.dll",
-        "lib/tizen40/Plugin.Settings.xml",
-        "lib/uap10.0.15063/Plugin.Settings.dll",
-        "lib/uap10.0.15063/Plugin.Settings.pri",
-        "lib/uap10.0.15063/Plugin.Settings.xml",
-        "lib/xamarinios10/Plugin.Settings.dll",
-        "lib/xamarinios10/Plugin.Settings.xml",
-        "lib/xamarinmac20/Plugin.Settings.dll",
-        "lib/xamarinmac20/Plugin.Settings.xml",
-        "lib/xamarintvos10/Plugin.Settings.dll",
-        "lib/xamarintvos10/Plugin.Settings.xml",
-        "lib/xamarinwatchos10/Plugin.Settings.dll",
-        "lib/xamarinwatchos10/Plugin.Settings.xml",
-        "xam.plugins.settings.4.0.0.3-beta.nupkg.sha512",
-        "xam.plugins.settings.nuspec"
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.xml",
+        "lib/MonoAndroid10/Plugin.Connectivity.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.pdb",
+        "lib/MonoAndroid10/Plugin.Connectivity.xml",
+        "lib/UAP10/Plugin.Connectivity.Abstractions.dll",
+        "lib/UAP10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/UAP10/Plugin.Connectivity.Abstractions.xml",
+        "lib/UAP10/Plugin.Connectivity.XML",
+        "lib/UAP10/Plugin.Connectivity.dll",
+        "lib/UAP10/Plugin.Connectivity.pdb",
+        "lib/UAP10/Plugin.Connectivity.pri",
+        "lib/UAP10/Plugin.Connectivity/Properties/Plugin.Connectivity.rd.xml",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.Abstractions.dll",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.Abstractions.pdb",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.Abstractions.xml",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.dll",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.pdb",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.xml",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.xml",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.pdb",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.xml",
+        "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.dll",
+        "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.pdb",
+        "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.xml",
+        "lib/XamarinTVOS/Plugin.Connectivity.dll",
+        "lib/XamarinTVOS/Plugin.Connectivity.pdb",
+        "lib/XamarinTVOS/Plugin.Connectivity.xml",
+        "lib/net45/Plugin.Connectivity.Abstractions.dll",
+        "lib/net45/Plugin.Connectivity.Abstractions.pdb",
+        "lib/net45/Plugin.Connectivity.Abstractions.xml",
+        "lib/net45/Plugin.Connectivity.XML",
+        "lib/net45/Plugin.Connectivity.dll",
+        "lib/net45/Plugin.Connectivity.pdb",
+        "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll",
+        "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.pdb",
+        "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.xml",
+        "lib/netcoreapp2.0/Plugin.Connectivity.deps.json",
+        "lib/netcoreapp2.0/Plugin.Connectivity.dll",
+        "lib/netcoreapp2.0/Plugin.Connectivity.xml",
+        "lib/netstandard1.0/Plugin.Connectivity.Abstractions.dll",
+        "lib/netstandard1.0/Plugin.Connectivity.Abstractions.pdb",
+        "lib/netstandard1.0/Plugin.Connectivity.Abstractions.xml",
+        "lib/netstandard1.0/Plugin.Connectivity.deps.json",
+        "lib/netstandard1.0/Plugin.Connectivity.dll",
+        "lib/netstandard1.0/Plugin.Connectivity.pdb",
+        "lib/netstandard1.0/Plugin.Connectivity.xml",
+        "lib/tizen40/Plugin.Connectivity.Abstractions.dll",
+        "lib/tizen40/Plugin.Connectivity.Abstractions.pdb",
+        "lib/tizen40/Plugin.Connectivity.Abstractions.xml",
+        "lib/tizen40/Plugin.Connectivity.deps.json",
+        "lib/tizen40/Plugin.Connectivity.dll",
+        "xam.plugin.connectivity.4.0.0.186-beta.nupkg.sha512",
+        "xam.plugin.connectivity.nuspec"
       ]
     },
     "Xamarin.Android.Support.Animated.Vector.Drawable/25.4.0.2": {
@@ -785,11 +829,13 @@
         "build/netstandard2.0/Xamarin.Forms.props",
         "build/netstandard2.0/Xamarin.Forms.targets",
         "lib/MonoAndroid10/FormsViewGroup.dll",
+        "lib/MonoAndroid10/FormsViewGroup.dll.mdb",
         "lib/MonoAndroid10/FormsViewGroup.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Core.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Core.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Core.xml",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll",
+        "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll.mdb",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll",
@@ -917,7 +963,7 @@
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v7.1": [
       "Delicioso >= 1.0.0",
-      "Xam.Plugins.Settings >= 4.0.0.3-beta",
+      "Rg.Plugins.Popup >= 1.1.4.154-pre",
       "Xamarin.Android.Support.Design >= 25.4.0.2",
       "Xamarin.Android.Support.v4 >= 25.4.0.2",
       "Xamarin.Android.Support.v7.AppCompat >= 25.4.0.2",
@@ -935,11 +981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\C#_Ws\\Applications\\Delicioso 3.0\\Delicioso\\Delicioso\\Delicioso.Android\\Delicioso.Android.csproj",
+      "projectUniqueName": "F:\\C#\\C#_Ws\\Practice\\Delicioso\\Delicioso\\Delicioso.Android\\Delicioso.Android.csproj",
       "projectName": "Delicioso.Android",
-      "projectPath": "F:\\C#\\C#_Ws\\Applications\\Delicioso 3.0\\Delicioso\\Delicioso\\Delicioso.Android\\Delicioso.Android.csproj",
+      "projectPath": "F:\\C#\\C#_Ws\\Practice\\Delicioso\\Delicioso\\Delicioso.Android\\Delicioso.Android.csproj",
       "packagesPath": "C:\\Users\\INDIAN\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\C#_Ws\\Applications\\Delicioso 3.0\\Delicioso\\Delicioso\\Delicioso.Android\\obj\\",
+      "outputPath": "F:\\C#\\C#_Ws\\Practice\\Delicioso\\Delicioso\\Delicioso.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -960,8 +1006,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "F:\\C#\\C#_Ws\\Applications\\Delicioso 3.0\\Delicioso\\Delicioso\\Delicioso\\Delicioso.csproj": {
-              "projectPath": "F:\\C#\\C#_Ws\\Applications\\Delicioso 3.0\\Delicioso\\Delicioso\\Delicioso\\Delicioso.csproj"
+            "F:\\C#\\C#_Ws\\Practice\\Delicioso\\Delicioso\\Delicioso\\Delicioso.csproj": {
+              "projectPath": "F:\\C#\\C#_Ws\\Practice\\Delicioso\\Delicioso\\Delicioso\\Delicioso.csproj"
             }
           }
         }
@@ -970,9 +1016,9 @@
     "frameworks": {
       "monoandroid71": {
         "dependencies": {
-          "Xam.Plugins.Settings": {
+          "Rg.Plugins.Popup": {
             "target": "Package",
-            "version": "[4.0.0.3-beta, )"
+            "version": "[1.1.4.154-pre, )"
           },
           "Xamarin.Android.Support.Design": {
             "target": "Package",

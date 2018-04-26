@@ -3,42 +3,42 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Delicioso.Views.SignupPage">
     <ScrollView>
-    <StackLayout x:Name="MasterLayout">
-        <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
-            <Label Text="Register yourself..For Better Use"
+        <StackLayout x:Name="MasterLayout">
+            <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                <Label Text="Register yourself..For Better Use"
                TextColor="White"
                FontAttributes="Bold"
                HorizontalOptions="Center"
                FontSize="20" 
                Margin="0,80,0,0" />
-            <Label x:Name="Error" Text="" HorizontalOptions="CenterAndExpand" TextColor="Red" FontSize="Small"></Label>
-        </StackLayout>
+                <Label x:Name="Error" Text="" HorizontalOptions="CenterAndExpand" TextColor="Red" FontSize="Small"></Label>
+            </StackLayout>
 
-        <Frame
+            <Frame
                 IsClippedToBounds="False"
                 HasShadow="True"
                 CornerRadius="15"
                 HorizontalOptions="FillAndExpand">
-            <StackLayout x:Name="LoginEnteriesStack" VerticalOptions="StartAndExpand" BackgroundColor="Transparent" >
-                <StackLayout.Padding>
-                    <OnIdiom x:TypeArguments="Thickness">
-                        <OnIdiom.Phone>40,0,40,0</OnIdiom.Phone>
-                        <OnIdiom.Tablet>140,150,140,0</OnIdiom.Tablet>
-                    </OnIdiom>
-                </StackLayout.Padding>
+                <StackLayout x:Name="LoginEnteriesStack" VerticalOptions="StartAndExpand" BackgroundColor="Transparent" >
+                    <StackLayout.Padding>
+                        <OnIdiom x:TypeArguments="Thickness">
+                            <OnIdiom.Phone>40,0,40,0</OnIdiom.Phone>
+                            <OnIdiom.Tablet>140,150,140,0</OnIdiom.Tablet>
+                        </OnIdiom>
+                    </StackLayout.Padding>
 
-                <Entry x:Name="Entry_Fullname" Placeholder="Fullname" FontSize="18" TextColor="Black" />
-                <Entry x:Name="Entry_Username" Placeholder="Username" FontSize="18" TextColor="Black" />
-                <Entry x:Name="Entry_Password" IsPassword="True" Placeholder="Password" FontSize="18" TextColor="Black"/>
-                <Entry x:Name="Entry_Confirm_Password" IsPassword="True" Placeholder="Confirm Password" FontSize="18" TextColor="Black"/>
-                <Entry x:Name="Entry_Mobile_Number" Keyboard="Telephone" Placeholder="Mobile" FontSize="18" TextColor="Black"/>
-                <Entry x:Name="Entry_Address" Placeholder="Address" FontSize="18" TextColor="Black"/>
+                    <Entry x:Name="Entry_Fullname" Placeholder="Fullname" FontSize="18" TextColor="Black" />
+                    <Entry x:Name="Entry_Username" Placeholder="Username" FontSize="18" TextColor="Black" />
+                    <Entry x:Name="Entry_Password" IsPassword="True" Placeholder="Password" FontSize="18" TextColor="Black"/>
+                    <Entry x:Name="Entry_Confirm_Password" IsPassword="True" Placeholder="Confirm Password" FontSize="18" TextColor="Black"/>
+                    <Entry x:Name="Entry_Mobile_Number" Keyboard="Telephone" MaxLength="10" Placeholder="Mobile" FontSize="18" TextColor="Black"/>
+                    <Entry x:Name="Entry_Address" Placeholder="Address" FontSize="18" TextColor="Black"/>
+                </StackLayout>
+            </Frame>
+
+            <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="StartAndExpand">
+                <Button x:Name="Btn_SignUp" Text="Sign Up" Clicked="SignUpInsert" BackgroundColor="Orange" TextColor="White" FontAttributes="Bold" FontSize="18" />
             </StackLayout>
-        </Frame>
-
-        <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="StartAndExpand">
-            <Button x:Name="Btn_SignUp" Text="Sign Up" Clicked="SignUpInsert" BackgroundColor="Orange" TextColor="White" FontAttributes="Bold" FontSize="18" />
         </StackLayout>
-    </StackLayout>
     </ScrollView>
 </ContentPage>

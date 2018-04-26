@@ -10,7 +10,7 @@
                HorizontalOptions="Center"
                FontSize="20" 
                Margin="0,80,0,0" />
-            <Label x:Name="Error" Text="" HorizontalOptions="CenterAndExpand" TextColor="Red" FontSize="Small"></Label> 
+            <Label x:Name="Error" Text="" HorizontalOptions="CenterAndExpand" TextColor="Red" FontSize="Small"></Label>
         </StackLayout>
 
         <Frame
@@ -29,7 +29,6 @@
                 <Entry x:Name="Entry_Username" Placeholder="Username" FontSize="18" TextColor="Black" />
                 <Entry x:Name="Entry_Password" IsPassword="True" Placeholder="Password" FontSize="18" TextColor="Black"/>
             </StackLayout>
-            <!--Content here-->
         </Frame>
 
 

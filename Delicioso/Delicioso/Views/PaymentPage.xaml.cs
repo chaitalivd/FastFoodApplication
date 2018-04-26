@@ -1,4 +1,4 @@
-﻿using Delicioso.Models;
+﻿using Delicioso.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 
 namespace Delicioso.Views
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class PaymentPage : ContentPage
-    {
+	[XamlCompilation(XamlCompilationOptions.Compile)]
+	public partial class PaymentPage : ContentPage
+	{
         public PaymentPage()
         {
             InitializeComponent();
@@ -38,7 +38,7 @@ namespace Delicioso.Views
                 else
                 {
                     DisplayAlert("Paymet", "Something wenr wrong..", "Yes");
-                }               
+                }
             }
         }
     }

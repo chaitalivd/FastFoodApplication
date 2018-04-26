@@ -1,20 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using Android.App;
-using Android.Content;
-using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
+﻿using Android.App;
+using Delicioso.Droid.Interface;
 using Delicioso.Interface;
-using FastFoodApp.Droid.Interface;
 using Xamarin.Forms;
 
 [assembly: Dependency(typeof(CloseApplication))]
-namespace FastFoodApp.Droid.Interface
+namespace Delicioso.Droid.Interface
 {
     public class CloseApplication : ICloseApplication
     {

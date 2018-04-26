@@ -1,4 +1,4 @@
-﻿using Delicioso.Models;
+﻿using Delicioso.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +11,8 @@ using Xamarin.Forms.Xaml;
 namespace Delicioso.Views
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class DetailPage : ContentPage
-	{
+    public partial class DetailPage : ContentPage
+    {
         string selImage;
 
         public DetailPage(string image, string name, string description, string price)
@@ -20,7 +20,8 @@ namespace Delicioso.Views
             InitializeComponent();
             this.BackgroundImage = "background.jpg";
             this.Title = name;
-            Name.Text = name;            
+            App.StartCheckIfInternet(lbl_NoInternet, this);
+            Name.Text = name;
             Image.Source = image;
             selImage = image;
             Description.Text = description;
@@ -35,7 +36,7 @@ namespace Delicioso.Views
                 if (getUserName.Equals("As Guest"))
                 {
                     int quantity1 = Convert.ToInt32(Qty.Text);
-                    Navigation.PushAsync(new LoginPage(selImage,Name.Text,Price.Text,quantity1));
+                    Navigation.PushAsync(new LoginPage(selImage, Name.Text, Price.Text, quantity1));
                 }
                 else
                 {

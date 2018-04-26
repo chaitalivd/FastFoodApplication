@@ -2,6 +2,22 @@ Delicioso.Droid.MainActivity, Delicioso.Android;md51dae7cc3907e7c70144f277ec6274
 Delicioso.Droid.MainActivity, Delicioso.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51dae7cc3907e7c70144f277ec6274ba5.MainActivity
 Delicioso.Droid.MainActivity;md51dae7cc3907e7c70144f277ec6274ba5.MainActivity
 delicioso.droid.MainActivity;md51dae7cc3907e7c70144f277ec6274ba5.MainActivity
+Delicioso.Droid.SplashActivity, Delicioso.Android;md51dae7cc3907e7c70144f277ec6274ba5.SplashActivity
+Delicioso.Droid.SplashActivity, Delicioso.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51dae7cc3907e7c70144f277ec6274ba5.SplashActivity
+Delicioso.Droid.SplashActivity;md51dae7cc3907e7c70144f277ec6274ba5.SplashActivity
+delicioso.droid.SplashActivity;md51dae7cc3907e7c70144f277ec6274ba5.SplashActivity
+Plugin.Connectivity.ConnectivityChangeBroadcastReceiver, Plugin.Connectivity;md5433775bdc1c7ba2237d7dcd631be0ae5.ConnectivityChangeBroadcastReceiver
+Plugin.Connectivity.ConnectivityChangeBroadcastReceiver, Plugin.Connectivity, Version=4.0.0.186, Culture=neutral, PublicKeyToken=null;md5433775bdc1c7ba2237d7dcd631be0ae5.ConnectivityChangeBroadcastReceiver
+Plugin.Connectivity.ConnectivityChangeBroadcastReceiver;md5433775bdc1c7ba2237d7dcd631be0ae5.ConnectivityChangeBroadcastReceiver
+plugin.connectivity.ConnectivityChangeBroadcastReceiver;md5433775bdc1c7ba2237d7dcd631be0ae5.ConnectivityChangeBroadcastReceiver
+Rg.Plugins.Popup.Droid.Renderers.PopupPageRenderer, Rg.Plugins.Popup.Droid;md526b1b25ceb7b6465e843e26e715ca5ca.PopupPageRenderer
+Rg.Plugins.Popup.Droid.Renderers.PopupPageRenderer, Rg.Plugins.Popup.Droid, Version=1.1.4.154, Culture=neutral, PublicKeyToken=null;md526b1b25ceb7b6465e843e26e715ca5ca.PopupPageRenderer
+Rg.Plugins.Popup.Droid.Renderers.PopupPageRenderer;md526b1b25ceb7b6465e843e26e715ca5ca.PopupPageRenderer
+rg.plugins.popup.droid.renderers.PopupPageRenderer;md526b1b25ceb7b6465e843e26e715ca5ca.PopupPageRenderer
+Rg.Plugins.Popup.Droid.Gestures.RgGestureDetectorListener, Rg.Plugins.Popup.Droid;md59ed0beb90aa78f042dd98f1b18873770.RgGestureDetectorListener
+Rg.Plugins.Popup.Droid.Gestures.RgGestureDetectorListener, Rg.Plugins.Popup.Droid, Version=1.1.4.154, Culture=neutral, PublicKeyToken=null;md59ed0beb90aa78f042dd98f1b18873770.RgGestureDetectorListener
+Rg.Plugins.Popup.Droid.Gestures.RgGestureDetectorListener;md59ed0beb90aa78f042dd98f1b18873770.RgGestureDetectorListener
+rg.plugins.popup.droid.gestures.RgGestureDetectorListener;md59ed0beb90aa78f042dd98f1b18873770.RgGestureDetectorListener
 Android.Support.V4.Widget.SearchViewCompat/IOnCloseListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat+IOnCloseListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat.IOnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor

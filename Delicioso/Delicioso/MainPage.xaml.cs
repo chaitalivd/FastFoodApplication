@@ -1,8 +1,8 @@
-﻿using System;
+﻿using Delicioso.Interface;
+using Delicioso.Model;
+using Delicioso.Views;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace Delicioso

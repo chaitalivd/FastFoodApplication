@@ -1,4 +1,4 @@
-﻿using Delicioso.Models;
+﻿using Delicioso.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,21 +11,12 @@ using Xamarin.Forms.Xaml;
 namespace Delicioso.Views
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class SignupPage : ContentPage
-	{
+    public partial class SignupPage : ContentPage
+    {
         public UserDB userDB;
         public UserQuery userQuery;
         string getImage, getName, getPrice;
         int getQuantity;
-
-        public SignupPage ()
-		{
-			InitializeComponent ();
-            this.BackgroundImage = "background.jpg";
-            this.Title = "SignUp";
-            userDB = new UserDB();
-            userQuery = new UserQuery();
-        }
 
         public SignupPage(string image, string name, string price, int qty)
         {
@@ -54,11 +45,19 @@ namespace Delicioso.Views
             }
             else
             {
-                if(Entry_Password.Text == Entry_Confirm_Password.Text)
+                if (Entry_Password.Text == Entry_Confirm_Password.Text)
                 {
-                    InsertData(Entry_Fullname.Text, Entry_Username.Text, Entry_Password.Text, Entry_Mobile_Number.Text, Entry_Address.Text);
-                    DisplayAlert("SignUp", "Success", "Ok");
-                    NavigateFunc();
+                    var rec = InsertData(Entry_Fullname.Text, Entry_Username.Text, Entry_Password.Text, Entry_Mobile_Number.Text, Entry_Address.Text);
+                    if(rec == -1)
+                    {
+                        DisplayAlert("SignUp", "You are a registered user", "Ok");
+                        NavigateFunc();
+                    }
+                    else
+                    {
+                        DisplayAlert("SignUp", "Success", "Ok");
+                        NavigateFunc();
+                    }                  
                 }
                 else
                 {
@@ -67,14 +66,15 @@ namespace Delicioso.Views
             }
         }
 
-        public void InsertData(string name, string uname, string password, string mobile, string address)
+        public int InsertData(string name, string uname, string password, string mobile, string address)
         {
             userDB.Name = name;
             userDB.Username = uname;
             userDB.Password = password;
             userDB.Mobile = mobile;
             userDB.Address = address;
-            userQuery.InsertDetails(userDB);
+            var res = userQuery.InsertDetails(userDB);
+            return res;
 
         }
         public void NavigateFunc()

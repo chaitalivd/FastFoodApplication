@@ -1,10 +1,7 @@
 ﻿using Delicioso.Interface;
-using Delicioso.Models;
+using Delicioso.Model;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -15,11 +12,15 @@ namespace Delicioso.Views
 	public partial class HomePage : ContentPage
 	{
         string spUserName = null;
+        int SlidePosition = 0;
+        
+
         public HomePage()
         {
             InitializeComponent();
             this.BackgroundImage = "background.jpg";
             this.Title = "Delicioso";
+            App.StartCheckIfInternet(lbl_NoInternet, this);
 
             if (Application.Current.Properties.ContainsKey("USERNAME"))
             {
@@ -31,14 +32,22 @@ namespace Delicioso.Views
                 Application.Current.Properties["USERNAME"] = spUserName;
             }
 
+            var images =  new List<string>
+             {
+                 "cv_pic1.png",
+                 "cv_pic2.jpg",
+                 "cv_pic3.jpg"
+             };
 
-            var images = new List<string>
-            {
-                "cv_pic1.png",
-                "cv_pic2.jpg",
-                "cv_pic3.jpg"
-            };
             MainCarouselView.ItemsSource = images;
+
+             Device.StartTimer(TimeSpan.FromSeconds(5), () =>
+            {
+                SlidePosition++;
+                if (SlidePosition == images.Count) SlidePosition = 0;
+                MainCarouselView.Position = SlidePosition;
+                return true;
+            });
 
             var menuheads = new List<MenuHead>
             {
@@ -58,14 +67,22 @@ namespace Delicioso.Views
 
         public void MenuHead_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            var menu = e.Item as MenuHead;
-            Navigation.PushAsync(new SubMenuPage(menu.Name));
+            if(lbl_NoInternet.IsVisible == true)
+            {
+                DisplayAlert("Internet", "Device has no Internet, please reconnect to proceed.", "Ok");
+            }
+            else
+            {
+                var menu = e.Item as MenuHead;
+                Navigation.PushAsync(new SubMenuPage(menu.Name));
+            }
+            
         }
 
         protected override bool OnBackButtonPressed()
         {
-           var closer = DependencyService.Get<ICloseApplication>();
-           closer?.closeApplication();
+            var closer = DependencyService.Get<ICloseApplication>();
+            closer?.closeApplication();
             return false;
         }
 

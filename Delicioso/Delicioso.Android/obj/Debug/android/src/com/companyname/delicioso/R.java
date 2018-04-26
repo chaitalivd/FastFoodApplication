@@ -2825,13 +2825,13 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
-        public static final int avd_hide_password_1=0x7f02011c;
-        public static final int avd_hide_password_2=0x7f02011d;
-        public static final int avd_hide_password_3=0x7f02011e;
+        public static final int avd_hide_password_1=0x7f02011d;
+        public static final int avd_hide_password_2=0x7f02011e;
+        public static final int avd_hide_password_3=0x7f02011f;
         public static final int avd_show_password=0x7f020054;
-        public static final int avd_show_password_1=0x7f02011f;
-        public static final int avd_show_password_2=0x7f020120;
-        public static final int avd_show_password_3=0x7f020121;
+        public static final int avd_show_password_1=0x7f020120;
+        public static final int avd_show_password_2=0x7f020121;
+        public static final int avd_show_password_3=0x7f020122;
         public static final int background=0x7f020055;
         public static final int cv_pic1=0x7f020056;
         public static final int cv_pic2=0x7f020057;
@@ -3023,14 +3023,15 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f020111;
         public static final int notification_bg_normal_pressed=0x7f020112;
         public static final int notification_icon_background=0x7f020113;
-        public static final int notification_template_icon_bg=0x7f02011a;
-        public static final int notification_template_icon_low_bg=0x7f02011b;
+        public static final int notification_template_icon_bg=0x7f02011b;
+        public static final int notification_template_icon_low_bg=0x7f02011c;
         public static final int notification_tile_bg=0x7f020114;
         public static final int notify_panel_notification_icon_bg=0x7f020115;
         public static final int pimento_cheese_sandwiches=0x7f020116;
-        public static final int veggie_focaccia=0x7f020117;
-        public static final int very_berry_khatta=0x7f020118;
-        public static final int watermelon_and_mint_juice=0x7f020119;
+        public static final int splash_screen=0x7f020117;
+        public static final int veggie_focaccia=0x7f020118;
+        public static final int very_berry_khatta=0x7f020119;
+        public static final int watermelon_and_mint_juice=0x7f02011a;
     }
     public static final class id {
         public static final int action0=0x7f08009e;
@@ -3374,7 +3375,7 @@ containing a value of this type.
         public static final int Animation_AppCompat_Dialog=0x7f0b00b0;
         public static final int Animation_AppCompat_DropDownUp=0x7f0b00b1;
         public static final int Animation_Design_BottomSheetDialog=0x7f0b0170;
-        public static final int AppCompatDialogStyle=0x7f0b018b;
+        public static final int AppCompatDialogStyle=0x7f0b018c;
         public static final int Base_AlertDialog_AppCompat=0x7f0b00b2;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0b00b3;
         public static final int Base_Animation_AppCompat_Dialog=0x7f0b00b4;
@@ -3536,7 +3537,7 @@ containing a value of this type.
         public static final int MainTheme=0x7f0b0189;
         /**  Base theme applied no matter what API 
          */
-        public static final int MainTheme_Base=0x7f0b018a;
+        public static final int MainTheme_Base=0x7f0b018b;
         public static final int Platform_AppCompat=0x7f0b002d;
         public static final int Platform_AppCompat_Light=0x7f0b002e;
         public static final int Platform_ThemeOverlay_AppCompat=0x7f0b0094;
@@ -3671,6 +3672,7 @@ containing a value of this type.
         public static final int Theme_MediaRouter_Light=0x7f0b0004;
         public static final int Theme_MediaRouter_Light_DarkControlPanel=0x7f0b0005;
         public static final int Theme_MediaRouter_LightControlPanel=0x7f0b0006;
+        public static final int Theme_Splash=0x7f0b018a;
         public static final int ThemeOverlay_AppCompat=0x7f0b011f;
         public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0b0120;
         public static final int ThemeOverlay_AppCompat_Dark=0x7f0b0121;

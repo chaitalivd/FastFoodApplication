@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "321c8fc9132a7868fe87341e1c3d5de5ffa1db12"
+    "signature": "7acb769c27f398e7e08ffad255ad407429e4a545"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,8 @@
       "Delicioso/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.1",
-          "Xam.Plugins.Settings": "4.0.0.3-beta",
+          "Rg.Plugins.Popup": "1.1.4.154-pre",
+          "Xam.Plugin.Connectivity": "4.0.0.186-beta",
           "Xamarin.Forms": "3.0.0.354232-pre3",
           "Xamarin.Forms.CarouselView": "2.3.0-pre2",
           "sqlite-net-pcl": "1.5.166-beta"
@@ -23,6 +24,14 @@
       "NETStandard.Library/2.0.1": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Rg.Plugins.Popup/1.1.4.154-pre": {
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.354232-pre3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Rg.Plugins.Popup.dll": {}
         }
       },
       "sqlite-net-pcl/1.5.166-beta": {
@@ -52,9 +61,13 @@
           "lib/netstandard1.1/SQLitePCLRaw.core.dll": {}
         }
       },
-      "Xam.Plugins.Settings/4.0.0.3-beta": {
+      "Xam.Plugin.Connectivity/4.0.0.186-beta": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.1"
+        },
         "runtime": {
-          "lib/netstandard2.0/Plugin.Settings.dll": {}
+          "lib/netstandard1.0/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/netstandard1.0/Plugin.Connectivity.dll": {}
         }
       },
       "Xamarin.Forms/3.0.0.354232-pre3": {
@@ -94,6 +107,13 @@
       "path": "netstandard.library/2.0.1",
       "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
     },
+    "Rg.Plugins.Popup/1.1.4.154-pre": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9ikBEWrM2yNKW7vg1oet8KagYNIAWKlmwExU45oDvE/M5lOwK/qEVlyXgbouZWHnCnSE4yStiY1QGLrxG/k5DQ==",
+      "path": "rg.plugins.popup/1.1.4.154-pre",
+      "hashPath": "rg.plugins.popup.1.1.4.154-pre.nupkg.sha512"
+    },
     "sqlite-net-pcl/1.5.166-beta": {
       "type": "package",
       "serviceable": true,
@@ -115,12 +135,12 @@
       "path": "sqlitepclraw.core/1.1.8",
       "hashPath": "sqlitepclraw.core.1.1.8.nupkg.sha512"
     },
-    "Xam.Plugins.Settings/4.0.0.3-beta": {
+    "Xam.Plugin.Connectivity/4.0.0.186-beta": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-d3OKHQ67qx01kax3AbkbvclP47hpNgdilrtz9lpc+0GCM1tCzAH12dGV2DlgG4rmcE8pYgUyAYcta7HoDKn+3w==",
-      "path": "xam.plugins.settings/4.0.0.3-beta",
-      "hashPath": "xam.plugins.settings.4.0.0.3-beta.nupkg.sha512"
+      "sha512": "sha512-omhy5ycD6LoXwuJYJAOQgth86oayAXfglT4e/ce5h8cn8oO3QJYZZug6leT5wQD8bD1Kb0wxIOXs8jKZZO1/Gw==",
+      "path": "xam.plugin.connectivity/4.0.0.186-beta",
+      "hashPath": "xam.plugin.connectivity.4.0.0.186-beta.nupkg.sha512"
     },
     "Xamarin.Forms/3.0.0.354232-pre3": {
       "type": "package",

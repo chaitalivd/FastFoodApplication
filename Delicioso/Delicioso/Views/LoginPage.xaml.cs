@@ -1,4 +1,4 @@
-﻿using Delicioso.Models;
+﻿using Delicioso.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,13 +11,14 @@ using Xamarin.Forms.Xaml;
 namespace Delicioso.Views
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class LoginPage : ContentPage
-	{
+    public partial class LoginPage : ContentPage
+    {
         string getImage, getName, getPrice;
         int getQuantity;
-		public LoginPage()
+
+        public LoginPage()
         {
-			InitializeComponent ();
+            InitializeComponent();
             this.BackgroundImage = "background.jpg";
             this.Title = "Login";
             Entry_Username.Completed += (s, e) => Entry_Password.Focus();
@@ -39,7 +40,7 @@ namespace Delicioso.Views
 
         }
 
-        public void SignInProcedure(object sender, EventArgs args)
+       public void SignInProcedure(object sender, EventArgs args)
         {
             UserDB userDB = new UserDB();
             UserQuery userQuery = new UserQuery();
@@ -73,12 +74,12 @@ namespace Delicioso.Views
 
         public void SignUpProcedure(object sender, EventArgs args)
         {
-            Navigation.PushAsync(new SignupPage(getImage,getName,getPrice,getQuantity));           
+            Navigation.PushAsync(new SignupPage(getImage, getName, getPrice, getQuantity));
         }
 
         public void NavigateFunc()
         {
-            if(getName == null)
+            if (getName == null)
             {
                 Navigation.PushAsync(new CartPage());
             }
@@ -104,7 +105,7 @@ namespace Delicioso.Views
                 {
                     DisplayAlert("Issue", "Something went wrong..", "Ok");
                 }
-            }       
+            }
         }
     }
 }
